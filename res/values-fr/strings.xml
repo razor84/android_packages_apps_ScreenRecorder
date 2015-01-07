@@ -11,7 +11,8 @@
     <string name="notification_recording_error_title">Erreur d\'enregistrement de l\'écran</string>
     <string name="notification_recording_error_text">%s</string>
 
-    <string name="notification_video_processing_title">Traitement vidéo enregistrée</string>
+    <string name="notification_video_processing_title">Traitement vidéo enregistré</string>
+    <string name="notification_video_finished_title">L\'enregistrement est terminé</string>
 
     <string name="notification_action_stop_recording">Arrêter l\'enregistrement</string>
     <string name="notification_action_show_touch">Pour afficher toucher</string>
