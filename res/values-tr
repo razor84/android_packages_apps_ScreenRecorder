@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ekran Kaydedici</string>
+
+    <string name="notification_recording_title">Ekran kaydı devam ediyor</string>
+
+    <string name="notification_recording_finished_title">Ekran kaydı kaydedildi</string>
+    <string name="notification_recording_finished_text">Görüntülemek için dokunun %s</string>
+
+    <string name="notification_recording_error_title">Ekran kaydedici hatası</string>
+    <string name="notification_recording_error_text">%s</string>
+
+    <string name="notification_video_processing_title">Kaydedilen video işlemleri</string>
+    <string name="notification_video_finished_title">Tamamlanmış kayıt</string>
+
+    <string name="notification_action_stop_recording">Kaydı durdur</string>
+    <string name="notification_action_show_touch">Dokunmaları göster</string>
+
+    <string name="error_unable_to_create_directory">Çıkış dizini oluşturulamıyor.</string>
+    <string name="error_external_storage_unavailable">Harici depolama yok.</string>
+    <string name="error_unable_to_start">Kayıt işlemini başlatmak için açılamıyor.</string>
+
+</resources>
